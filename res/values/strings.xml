@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="hello">Hello World, TicTacToe!</string>
+    <string name="app_name">TicTacToe</string>
+    <string name="theme">Tic Tac Toe</string>
+    <string name="help">be the first to get three on row! this multiplier game 
+        is played on a 3 by 3 game board. one player is X ,the other is O.
+        players alternate placing their X or O on one of the empty fields
+        the game ends when the player gets three on row or when there is no empty
+        filed left,in this case the game will end with tie</string>
+
+    <color name="back_color">#ff0000</color>
+
+</resources>
